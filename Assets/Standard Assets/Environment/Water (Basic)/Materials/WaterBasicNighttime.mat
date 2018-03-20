@@ -30,7 +30,7 @@ Material:
     - _WaveScale: 0.07
     m_Colors:
     - WaveSpeed: {r: 19, g: 9, b: -16, a: -7}
-    - _horizonColor: {r: 0.06358132, g: 0.17744374, b: 0.30882353, a: 0}
+    - _horizonColor: {r: 0.086234875, g: 0.17090188, b: 0.21323532, a: 0}
 --- !u!1002 &2100001
 EditorExtensionImpl:
   serializedVersion: 6
